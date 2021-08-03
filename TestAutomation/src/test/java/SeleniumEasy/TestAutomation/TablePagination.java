@@ -63,6 +63,7 @@ public class TablePagination extends base {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		// This will scroll the page till the element is found
 		js.executeScript("arguments[0].scrollIntoView();", tablePaginationObject.getDefaultPage());
+		log.debug("scrolled the page till the element");
 
 		String value = tablePaginationObject.getDefaultPage().getText();
 		if (value.equalsIgnoreCase("1")) {
