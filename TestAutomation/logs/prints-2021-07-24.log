@@ -1,0 +1,81 @@
+DEBUG | 2021-07-24 19:02:58 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:82) - Check All text displayed on button
+INFO  | 2021-07-24 19:02:59 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:45) - Browser closed
+DEBUG | 2021-07-24 19:02:59 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:46) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:03:00 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+INFO  | 2021-07-24 19:03:24 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:35) - Driver is initialized
+INFO  | 2021-07-24 19:03:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:37) - Navigated to homepage
+INFO  | 2021-07-24 19:03:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:39) - Window maximized
+DEBUG | 2021-07-24 19:03:39 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:74) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:76) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:80) - Sex Radio btn  > Female radio btn selected
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:82) - Age group 15 to 50 radio button selected
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:84) - Get Values button clicked
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:87) - Text validated successfully
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:57) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-24 19:03:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:61) - Radio btn demo > Male radio btn selected
+DEBUG | 2021-07-24 19:03:42 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:63) - Get Checked Value button clicked
+DEBUG | 2021-07-24 19:03:42 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:65) - Text validated successfully
+INFO  | 2021-07-24 19:03:42 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:46) - Browser closed
+DEBUG | 2021-07-24 19:03:42 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:47) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:03:42 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:32) - ---------------------------------------------------
+INFO  | 2021-07-24 19:03:48 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:34) - Driver is initialized
+INFO  | 2021-07-24 19:03:55 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:36) - Navigated to homepage
+INFO  | 2021-07-24 19:03:55 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:38) - Window maximized
+DEBUG | 2021-07-24 19:03:56 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:03:57 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:57) - Select Dropdown List option clicked
+DEBUG | 2021-07-24 19:03:58 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:60) - Tuesday option clicked
+INFO  | 2021-07-24 19:03:58 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:63) - Day Selected text validated
+DEBUG | 2021-07-24 19:03:58 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:72) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:03:58 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:74) - Select Dropdown List option clicked
+DEBUG | 2021-07-24 19:04:00 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:81) - Multiple values selected
+DEBUG | 2021-07-24 19:04:00 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:83) - Get All Selected Btn clicked
+INFO  | 2021-07-24 19:04:10 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:44) - Browser closed
+DEBUG | 2021-07-24 19:04:10 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:09:20 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:09:20 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:30) - ---------------------------------------------------
+INFO  | 2021-07-24 19:09:46 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:32) - Driver is initialized
+INFO  | 2021-07-24 19:09:58 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:34) - Navigated to homepage
+INFO  | 2021-07-24 19:09:58 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:36) - Window maximized
+DEBUG | 2021-07-24 19:09:59 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:54) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:10:02 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:56) - Simple form option clicked
+DEBUG | 2021-07-24 19:10:03 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:59) - Message entered
+DEBUG | 2021-07-24 19:10:03 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:61) - Show message button clicked
+INFO  | 2021-07-24 19:10:03 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:63) - message successfully validated
+DEBUG | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:70) - Entered value A
+DEBUG | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:72) - Entered value B
+DEBUG | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:74) - Get Total button cicked
+INFO  | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:76) - Total value is validated successfully
+INFO  | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:43) - Browser closed
+DEBUG | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:10:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:10:06 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:32) - ---------------------------------------------------
+INFO  | 2021-07-24 19:10:11 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:34) - Driver is initialized
+INFO  | 2021-07-24 19:10:18 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:36) - Navigated to homepage
+INFO  | 2021-07-24 19:10:18 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:38) - Window maximized
+DEBUG | 2021-07-24 19:10:19 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:10:20 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:57) - CheckBox Demo option clicked
+DEBUG | 2021-07-24 19:10:20 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:60) - single CheckBox option selected
+DEBUG | 2021-07-24 19:10:20 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:74) - Uncheck All text displayed on button
+DEBUG | 2021-07-24 19:10:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:77) - option 1 CheckBox option unchecked
+DEBUG | 2021-07-24 19:10:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:80) - option 2 CheckBox option unchecked
+DEBUG | 2021-07-24 19:10:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:82) - Check All text displayed on button
+INFO  | 2021-07-24 19:10:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:45) - Browser closed
+DEBUG | 2021-07-24 19:10:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:46) - ---------------------------------------------------
+DEBUG | 2021-07-24 19:10:21 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+INFO  | 2021-07-24 19:10:25 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:35) - Driver is initialized
+INFO  | 2021-07-24 19:10:34 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:37) - Navigated to homepage
+INFO  | 2021-07-24 19:10:34 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:39) - Window maximized
+DEBUG | 2021-07-24 19:10:36 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:74) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:76) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:80) - Sex Radio btn  > Female radio btn selected
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:82) - Age group 15 to 50 radio button selected
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:84) - Get Values button clicked
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:87) - Text validated successfully
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:57) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-24 19:10:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:61) - Radio btn demo > Male radio btn selected
+DEBUG | 2021-07-24 19:10:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:63) - Get Checked Value button clicked
+DEBUG | 2021-07-24 19:10:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:65) - Text validated successfully
+INFO  | 2021-07-24 19:10:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:46) - Browser closed
+DEBUG | 2021-07-24 19:10:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:47) - ---------------------------------------------------

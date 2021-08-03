@@ -1,0 +1,79 @@
+DEBUG | 2021-07-26 11:41:02 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:43) - ---------------------------------------------------
+DEBUG | 2021-07-26 11:41:11 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+INFO  | 2021-07-26 11:41:15 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:31) - Driver is initialized
+INFO  | 2021-07-26 11:41:27 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:33) - Navigated to homepage
+INFO  | 2021-07-26 11:41:27 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:35) - Window maximized
+DEBUG | 2021-07-26 11:41:28 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:52) - Date Picker dropdown clicked
+DEBUG | 2021-07-26 11:41:28 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:54) - Bootstrap Date Pickers option clicked
+DEBUG | 2021-07-26 11:42:07 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+INFO  | 2021-07-26 11:42:15 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:31) - Driver is initialized
+INFO  | 2021-07-26 11:42:18 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:33) - Navigated to homepage
+INFO  | 2021-07-26 11:42:18 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:35) - Window maximized
+DEBUG | 2021-07-26 11:42:21 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:52) - Date Picker dropdown clicked
+DEBUG | 2021-07-26 11:42:23 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:54) - Bootstrap Date Pickers option clicked
+INFO  | 2021-07-26 11:43:56 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:42) - Browser closed
+DEBUG | 2021-07-26 11:43:56 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:43) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:20:48 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:20:48 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+INFO  | 2021-07-26 12:21:13 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:31) - Driver is initialized
+INFO  | 2021-07-26 12:21:13 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:31) - Driver is initialized
+INFO  | 2021-07-26 12:21:25 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:33) - Navigated to homepage
+INFO  | 2021-07-26 12:21:26 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:35) - Window maximized
+INFO  | 2021-07-26 12:21:26 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:33) - Navigated to homepage
+INFO  | 2021-07-26 12:21:27 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:35) - Window maximized
+INFO  | 2021-07-26 12:21:45 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:42) - Browser closed
+INFO  | 2021-07-26 12:21:45 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:42) - Browser closed
+DEBUG | 2021-07-26 12:21:45 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:43) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:21:45 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:43) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:41:15 | [main] TestAutomation.TablePagination (TablePagination.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:41:15 | [main] TestAutomation.TablePagination (TablePagination.java:30) - ---------------------------------------------------
+INFO  | 2021-07-26 12:41:25 | [main] TestAutomation.TablePagination (TablePagination.java:32) - Driver is initialized
+INFO  | 2021-07-26 12:41:31 | [main] TestAutomation.TablePagination (TablePagination.java:34) - Navigated to homepage
+INFO  | 2021-07-26 12:41:32 | [main] TestAutomation.TablePagination (TablePagination.java:36) - Window maximized
+DEBUG | 2021-07-26 12:41:33 | [main] TestAutomation.TablePagination (TablePagination.java:54) - table dropdown clicked
+DEBUG | 2021-07-26 12:41:33 | [main] TestAutomation.TablePagination (TablePagination.java:56) - table pagination option clicked
+INFO  | 2021-07-26 12:41:34 | [main] TestAutomation.TablePagination (TablePagination.java:43) - Browser closed
+DEBUG | 2021-07-26 12:41:34 | [main] TestAutomation.TablePagination (TablePagination.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:41:34 | [main] TestAutomation.TablePagination (TablePagination.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:52:53 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:52:53 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:30) - ---------------------------------------------------
+INFO  | 2021-07-26 12:53:04 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:32) - Driver is initialized
+INFO  | 2021-07-26 12:53:11 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:34) - Navigated to homepage
+INFO  | 2021-07-26 12:53:11 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:36) - Window maximized
+DEBUG | 2021-07-26 12:53:13 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:54) - Input form dropdown clicked
+DEBUG | 2021-07-26 12:53:14 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:56) - Simple form option clicked
+DEBUG | 2021-07-26 12:53:14 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:59) - Message entered
+DEBUG | 2021-07-26 12:53:14 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:61) - Show message button clicked
+INFO  | 2021-07-26 12:53:15 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:63) - message successfully validated
+DEBUG | 2021-07-26 12:53:15 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:70) - Entered value A
+DEBUG | 2021-07-26 12:53:15 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:72) - Entered value B
+DEBUG | 2021-07-26 12:53:15 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:74) - Get Total button cicked
+INFO  | 2021-07-26 12:53:15 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:76) - Total value is validated successfully
+INFO  | 2021-07-26 12:53:16 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:43) - Browser closed
+DEBUG | 2021-07-26 12:53:16 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:53:16 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:53:17 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:32) - ---------------------------------------------------
+INFO  | 2021-07-26 12:53:21 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:34) - Driver is initialized
+INFO  | 2021-07-26 12:53:26 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:36) - Navigated to homepage
+INFO  | 2021-07-26 12:53:26 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:38) - Window maximized
+DEBUG | 2021-07-26 12:53:27 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-26 12:53:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:57) - CheckBox Demo option clicked
+DEBUG | 2021-07-26 12:53:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:60) - single CheckBox option selected
+DEBUG | 2021-07-26 12:53:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:74) - Uncheck All text displayed on button
+DEBUG | 2021-07-26 12:53:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:77) - option 1 CheckBox option unchecked
+DEBUG | 2021-07-26 12:53:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:80) - option 2 CheckBox option unchecked
+DEBUG | 2021-07-26 12:53:29 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:82) - Check All text displayed on button
+INFO  | 2021-07-26 12:53:29 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:45) - Browser closed
+DEBUG | 2021-07-26 12:53:29 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:46) - ---------------------------------------------------
+DEBUG | 2021-07-26 12:53:29 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+INFO  | 2021-07-26 12:53:32 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:35) - Driver is initialized
+INFO  | 2021-07-26 12:53:39 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:37) - Navigated to homepage
+INFO  | 2021-07-26 12:53:39 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:39) - Window maximized
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:74) - Input form dropdown clicked
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:76) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:80) - Sex Radio btn  > Female radio btn selected
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:82) - Age group 15 to 50 radio button selected
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:84) - Get Values button clicked
+DEBUG | 2021-07-26 12:53:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:87) - Text validated successfully
+DEBUG | 2021-07-26 12:53:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-26 12:53:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:57) - Radio button Demo option clicked from dropdown

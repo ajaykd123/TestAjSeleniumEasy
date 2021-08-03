@@ -1,0 +1,33 @@
+INFO  | 2021-07-23 22:14:11 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:63) - message successfully validated
+DEBUG | 2021-07-23 22:14:12 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:70) - Entered value A
+DEBUG | 2021-07-23 22:14:12 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:72) - Entered value B
+DEBUG | 2021-07-23 22:14:12 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:74) - Get Total button cicked
+INFO  | 2021-07-23 22:14:12 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:76) - Total value is validated successfully
+INFO  | 2021-07-23 22:14:13 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:43) - Browser closed
+DEBUG | 2021-07-23 22:14:13 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-23 22:14:13 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-23 22:14:16 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:32) - ---------------------------------------------------
+INFO  | 2021-07-23 22:14:19 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:34) - Driver is initialized
+INFO  | 2021-07-23 22:14:25 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:36) - Navigated to homepage
+INFO  | 2021-07-23 22:14:25 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:38) - Window maximized
+DEBUG | 2021-07-23 22:14:26 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-23 22:14:27 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:57) - CheckBox Demo option clicked
+DEBUG | 2021-07-23 22:14:27 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:60) - single CheckBox option selected
+DEBUG | 2021-07-23 22:14:27 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:74) - Uncheck All text displayed on button
+DEBUG | 2021-07-23 22:14:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:77) - option 1 CheckBox option unchecked
+DEBUG | 2021-07-23 22:14:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:80) - option 2 CheckBox option unchecked
+DEBUG | 2021-07-23 22:14:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:82) - Check All text displayed on button
+INFO  | 2021-07-23 22:14:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:45) - Browser closed
+DEBUG | 2021-07-23 22:14:28 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:46) - ---------------------------------------------------
+DEBUG | 2021-07-23 22:14:28 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+INFO  | 2021-07-23 22:14:30 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:35) - Driver is initialized
+INFO  | 2021-07-23 22:14:38 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:37) - Navigated to homepage
+INFO  | 2021-07-23 22:14:39 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:39) - Window maximized
+DEBUG | 2021-07-23 22:14:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:74) - Input form dropdown clicked
+DEBUG | 2021-07-23 22:14:40 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:76) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:80) - Sex Radio btn  > Female radio btn selected
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:82) - Age group 15 to 50 radio button selected
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:84) - Get Values button clicked
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:87) - Text validated successfully
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-23 22:14:41 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:57) - Radio button Demo option clicked from dropdown

@@ -1,0 +1,75 @@
+INFO  | 2021-07-25 11:37:40 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 11:37:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:53) - Input form dropdown clicked
+DEBUG | 2021-07-25 11:37:43 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:56) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 11:37:44 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 11:37:44 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:37:11 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:37:26 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:37:31 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:37:31 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:37:32 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:112) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:37:33 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:115) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:37:44 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:37:44 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:43:54 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:44:12 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:44:24 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:44:24 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:44:26 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:53) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:44:27 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:56) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:44:28 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:44:28 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:45:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:45:45 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:45:50 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:45:50 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:45:52 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:53) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:45:53 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:56) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:45:54 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:45:54 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:46:11 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:46:14 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:46:18 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:46:18 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:46:19 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:112) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:46:20 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:115) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:46:30 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:46:30 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:47:08 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:47:12 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:47:18 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:47:19 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:47:20 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:53) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:47:22 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:56) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:47:22 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:47:22 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:51:49 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:51:53 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:52:27 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:52:27 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:52:27 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:112) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:52:28 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:115) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:52:42 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:52:42 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:56:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:56:44 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:56:49 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:56:49 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:56:49 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:112) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:56:51 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:115) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:57:01 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:57:01 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:57:42 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:57:45 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:57:50 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:57:50 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:57:51 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:113) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:57:53 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:116) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-25 12:58:03 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-25 12:58:03 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-25 12:58:31 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-25 12:58:34 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-25 12:58:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-25 12:58:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-25 12:58:41 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:114) - Input form dropdown clicked
+DEBUG | 2021-07-25 12:58:43 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:117) - JQuery Select Dropdown option clicked

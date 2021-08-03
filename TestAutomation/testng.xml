@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="resources.Listeners" />
+	</listeners>
+
+	<test thread-count="5" name="TC01_SimpleFormDemo">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.SimpleFormDemo" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="TC02_CheckBoxDemo">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.CheckBoxDemo" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="TC03_RadioButtonDemo">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.RadioButtonDemo" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="TC04_SelectDropdownList">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.SelectDropdownList" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="TC05_InputFormSubmit">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.InputFormSubmit" />
+		</classes>
+	</test>
+	
+	<test thread-count="5" name="TC06_JQuerySelectDropdown">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.JQuerySelectDropdown" />
+		</classes>
+	</test>
+	
+	<test thread-count="5" name="TC07_BootstrapDatePicker">
+		<classes>
+			<class
+				name="SeleniumEasy.TestAutomation.BootstrapDatePicker" />
+		</classes>
+	</test>
+	
+	<test thread-count="5" name="TC08_TablePagination">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.TablePagination" />
+		</classes>
+	</test>
+	<test thread-count="5" name="TC09_tableSortAndSearch">
+		<classes>
+			<class name="SeleniumEasy.TestAutomation.TableSortAndSearch" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

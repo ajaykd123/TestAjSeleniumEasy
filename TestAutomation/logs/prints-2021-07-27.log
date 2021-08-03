@@ -1,0 +1,79 @@
+DEBUG | 2021-07-27 19:05:37 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+INFO  | 2021-07-27 19:05:42 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:35) - Driver is initialized
+INFO  | 2021-07-27 19:05:55 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:37) - Navigated to homepage
+INFO  | 2021-07-27 19:05:55 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:39) - Window maximized
+DEBUG | 2021-07-27 19:05:56 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:74) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:76) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:80) - Sex Radio btn  > Female radio btn selected
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:82) - Age group 15 to 50 radio button selected
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:84) - Get Values button clicked
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:87) - Text validated successfully
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:57) - Radio button Demo option clicked from dropdown
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:61) - Radio btn demo > Male radio btn selected
+DEBUG | 2021-07-27 19:05:58 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:63) - Get Checked Value button clicked
+DEBUG | 2021-07-27 19:05:59 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:65) - Text validated successfully
+INFO  | 2021-07-27 19:05:59 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:46) - Browser closed
+DEBUG | 2021-07-27 19:05:59 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:47) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:05:59 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:32) - ---------------------------------------------------
+INFO  | 2021-07-27 19:06:03 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:34) - Driver is initialized
+INFO  | 2021-07-27 19:06:08 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:36) - Navigated to homepage
+INFO  | 2021-07-27 19:06:09 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:38) - Window maximized
+DEBUG | 2021-07-27 19:06:09 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:55) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:06:10 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:57) - Select Dropdown List option clicked
+DEBUG | 2021-07-27 19:06:10 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:60) - Tuesday option clicked
+INFO  | 2021-07-27 19:06:10 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:63) - Day Selected text validated
+DEBUG | 2021-07-27 19:06:11 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:72) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:06:11 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:74) - Select Dropdown List option clicked
+DEBUG | 2021-07-27 19:06:12 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:81) - Multiple values selected
+DEBUG | 2021-07-27 19:06:12 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:83) - Get All Selected Btn clicked
+INFO  | 2021-07-27 19:06:16 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:44) - Browser closed
+DEBUG | 2021-07-27 19:06:16 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:06:17 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:33) - ---------------------------------------------------
+INFO  | 2021-07-27 19:06:21 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:35) - Driver is initialized
+INFO  | 2021-07-27 19:06:25 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:37) - Navigated to homepage
+INFO  | 2021-07-27 19:06:26 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:39) - Window maximized
+DEBUG | 2021-07-27 19:06:27 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:56) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:06:27 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:58) - Input Form Submit option clicked from dropdown
+DEBUG | 2021-07-27 19:06:32 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:79) - First name entered
+DEBUG | 2021-07-27 19:06:33 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:81) - last name entered
+DEBUG | 2021-07-27 19:06:33 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:83) - email entered
+DEBUG | 2021-07-27 19:06:33 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:85) - phone entered
+DEBUG | 2021-07-27 19:06:34 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:87) - address entered
+DEBUG | 2021-07-27 19:06:34 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:89) - city entered
+DEBUG | 2021-07-27 19:06:34 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:94) - zip code entered
+DEBUG | 2021-07-27 19:06:34 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:96) - website entered
+DEBUG | 2021-07-27 19:06:34 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:100) - hosting yes selected
+DEBUG | 2021-07-27 19:06:35 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:107) - Description entered
+INFO  | 2021-07-27 19:06:35 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:46) - Browser closed
+DEBUG | 2021-07-27 19:06:35 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:47) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:06:35 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+INFO  | 2021-07-27 19:06:38 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:33) - Driver is initialized
+INFO  | 2021-07-27 19:07:02 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:35) - Navigated to homepage
+INFO  | 2021-07-27 19:07:02 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:37) - Window maximized
+DEBUG | 2021-07-27 19:07:03 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:54) - Input form dropdown clicked
+DEBUG | 2021-07-27 19:07:04 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:57) - JQuery Select Dropdown option clicked
+INFO  | 2021-07-27 19:07:05 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:43) - Browser closed
+DEBUG | 2021-07-27 19:07:05 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:05 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+INFO  | 2021-07-27 19:07:10 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:31) - Driver is initialized
+INFO  | 2021-07-27 19:07:15 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:33) - Navigated to homepage
+INFO  | 2021-07-27 19:07:15 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:35) - Window maximized
+DEBUG | 2021-07-27 19:07:16 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:52) - Date Picker dropdown clicked
+DEBUG | 2021-07-27 19:07:18 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:54) - Bootstrap Date Pickers option clicked
+INFO  | 2021-07-27 19:07:21 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:42) - Browser closed
+DEBUG | 2021-07-27 19:07:21 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:43) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:21 | [main] TestAutomation.TablePagination (TablePagination.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:21 | [main] TestAutomation.TablePagination (TablePagination.java:30) - ---------------------------------------------------
+INFO  | 2021-07-27 19:07:25 | [main] TestAutomation.TablePagination (TablePagination.java:32) - Driver is initialized
+INFO  | 2021-07-27 19:07:32 | [main] TestAutomation.TablePagination (TablePagination.java:34) - Navigated to homepage
+INFO  | 2021-07-27 19:07:32 | [main] TestAutomation.TablePagination (TablePagination.java:36) - Window maximized
+DEBUG | 2021-07-27 19:07:33 | [main] TestAutomation.TablePagination (TablePagination.java:54) - table dropdown clicked
+DEBUG | 2021-07-27 19:07:34 | [main] TestAutomation.TablePagination (TablePagination.java:56) - table pagination option clicked
+INFO  | 2021-07-27 19:07:34 | [main] TestAutomation.TablePagination (TablePagination.java:43) - Browser closed
+DEBUG | 2021-07-27 19:07:34 | [main] TestAutomation.TablePagination (TablePagination.java:44) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:34 | [main] TestAutomation.TablePagination (TablePagination.java:45) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:34 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:29) - ---------------------------------------------------
+DEBUG | 2021-07-27 19:07:34 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:30) - ---------------------------------------------------
+INFO  | 2021-07-27 19:07:38 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:32) - Driver is initialized
+INFO  | 2021-07-27 19:07:44 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:34) - Navigated to homepage
