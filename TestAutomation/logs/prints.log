@@ -112,3 +112,15 @@ DEBUG | 2021-07-27 21:03:54 | [main] TestAutomation.TableSortAndSearch (TableSor
 INFO  | 2021-07-27 21:04:01 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:43) - Browser closed
 DEBUG | 2021-07-27 21:04:01 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:44) - ---------------------------------------------------
 DEBUG | 2021-07-27 21:04:01 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:45) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:01 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:29) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:02 | [main] TestAutomation.SimpleFormDemo (SimpleFormDemo.java:30) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.CheckBoxDemo (CheckBoxDemo.java:32) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.RadioButtonDemo (RadioButtonDemo.java:33) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.SelectDropdownList (SelectDropdownList.java:32) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.InputFormSubmit (InputFormSubmit.java:33) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.JQuerySelectDropdown (JQuerySelectDropdown.java:31) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.BootstrapDatePicker (BootstrapDatePicker.java:29) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.TablePagination (TablePagination.java:29) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.TablePagination (TablePagination.java:30) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:29) - ---------------------------------------------------
+DEBUG | 2021-08-03 14:04:04 | [main] TestAutomation.TableSortAndSearch (TableSortAndSearch.java:30) - ---------------------------------------------------
