@@ -70,7 +70,8 @@ public class TableSortAndSearch extends base {
 
 		// calling method
 		sortingColumn(driver, nameColumn, columnNameValues);
-
+		log.info("Sorting column done");
+		
 		// calling method
 		searchingUsingPagination(driver, searchox, "S. Frost", columnNameValues, nextBtn);
 
